@@ -17,8 +17,7 @@ while done is False:
     year = int(year)
     
     Valid = True
-    #datetime will return a ValueError if the date is incorrect, and throw an error
-    #in the code, therefore a try except is necessary for the code not to crash
+    #datetime will return a ValueError if the date is incorrect, and throw an error in the code, therefore a try except is necessary for the code not to crash
     try: 
         datetime.datetime(year, month, day)
     except ValueError:
