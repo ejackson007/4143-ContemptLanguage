@@ -1,3 +1,5 @@
+#Evan Jackson
+#Decimal to Binary Assignment 1
 def makeBinary(digit, binary):
     if digit is not 0:
         if digit is not 1:
@@ -10,7 +12,7 @@ def makeBinary(digit, binary):
 
 def main():
     digit = int(input("Enter in a Base 10 Number to see Binary, or -1 to exit: "))
-    while digit > 0:
+    while digit >= 0:
         binary = []
         makeBinary(digit, binary)
         binary.reverse()    #must reverse list before print for correct order
