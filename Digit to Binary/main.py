@@ -1,5 +1,10 @@
 #Evan Jackson
 #Decimal to Binary Assignment 1
+
+#This program uses recursion to turn a base 10 number into a binary. 
+#As the recursive function goes through, it pushes each bit into a list
+#to keep all of the bits together
+
 def makeBinary(digit, binary):
     if digit is not 0:
         if digit is not 1:
