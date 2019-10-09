@@ -1,4 +1,11 @@
 #Evan Jackson
+#Beowulf Project
+
+#The point of this project was to take a list of old words with their modern equivalent
+#and replace the two, with a count of how many times it was done. I made a dictionary of
+#the key value pairs to iterate through while rewriting the file over. I also created an
+#auxillary text file to make edits to the text file since you do not have the abilitu
+#to prepend
 import re
 
 def main():
