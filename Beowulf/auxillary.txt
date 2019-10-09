@@ -43,7 +43,7 @@ made so famous by the hero of the poem.}
 
 {The ideal Teutonic king lavishes gifts on his vassals.}
 
-       20 So the carle that is young, by kindnesses rendered
+       20 So the hero that is young, by kindnesses rendered
           The friends of his father, with fees in abundance
           Must be able to earn that when age approacheth
           Eager companions aid him requitingly,
@@ -69,7 +69,7 @@ made so famous by the hero of the poem.}
           The famed by the mainmast. A many of jewels,
           Of fretted embossings, from far-lands brought over,
           Was placed near at hand then; and heard I not ever
-       40 That a folk ever furnished a float more superbly
+       40 That a folk ever furnished a ship more superbly
           With weapons of warfare, weeds for the battle,
           Bills and burnies; on his bosom sparkled
           Many a jewel that with him must travel
@@ -123,7 +123,7 @@ SCYLD'S SUCCESSORS.--HROTHGAR'S GREAT MEAD-HALL.
 
 {Beowulf succeeds his father Scyld}
 
-          In the boroughs then Beowulf, bairn of the Scyldings,
+          In the boroughs then Beowulf, child of the Scyldings,
           Belovèd land-prince, for long-lasting season
           Was famed mid the folk (his father departed,
           The prince from his dwelling), till afterward sprang
@@ -132,7 +132,7 @@ SCYLD'S SUCCESSORS.--HROTHGAR'S GREAT MEAD-HALL.
 
 {Healfdene's birth.}
 
-          Four bairns of his body born in succession
+          Four childs of his body born in succession
           Woke in the world, war-troopers' leader
           Heorogar, Hrothgar, and Halga the good;
        10 Heard I that Elan was Ongentheow's consort,
@@ -403,7 +403,7 @@ resolves to go to his assistance.}
           Trustworthy warriors; with fourteen companions
           The vessel he looked for; a liegeman then showed them,
        20 A sea-crafty man, the bounds of the country.
-          Fast the days fleeted; the float was a-water,
+          Fast the days fleeted; the ship was a-water,
           The craft by the cliff. Clomb to the prow then
           Well-equipped warriors: the wave-currents twisted
           The sea on the sand; soldiers then carried
@@ -415,7 +415,7 @@ resolves to go to his assistance.}
 
 {The vessel sails like a bird}
 
-          The foamy-necked floater fanned by the breeze,
+          The foamy-necked shiper fanned by the breeze,
           Likest a bird, glided the waters,
 
 {In twenty four hours they reach the shores of Hrothgar's dominions}
@@ -495,7 +495,7 @@ resolves to go to his assistance.}
     accepted, change line 51 above to, _A ring-stemmed vessel hither
     o'ersea_.
 
-    [4] 'Seld-guma' (249) is variously rendered: (1) _housecarle_; (2)
+    [4] 'Seld-guma' (249) is variously rendered: (1) _househero_; (2)
     _home-stayer_; (3) _common man_. Dr. H. Wood suggests _a man-at-arms
     in another's house_.
 
@@ -666,7 +666,7 @@ BEOWULF INTRODUCES HIMSELF AT THE PALACE.
 your prince.}
 
        25 Hardy 'neath helmet: "Higelac's mates are we;
-          Beowulf hight I. To the bairn of Healfdene,
+          Beowulf hight I. To the child of Healfdene,
           The famous folk-leader, I freely will tell
           To thy prince my commission, if pleasantly hearing
           He'll grant we may greet him so gracious to all men."
@@ -920,7 +920,7 @@ HROTHGAR AND BEOWULF.--_Continued_.
           The hoard-seat of heroes held in my youth,
           Rich in its jewels: dead was Heregar,
           My kinsman and elder had earth-joys forsaken,
-          Healfdene his bairn. He was better than I am!
+          Healfdene his child. He was better than I am!
        15 That feud thereafter for a fee I compounded;
           O'er the weltering waters to the Wilfings I sent
           Ornaments old; oaths did he swear me.
@@ -1815,12 +1815,12 @@ HROTHGAR'S GRATITUDE.
           What woman soever in all of the nations
           Gave birth to the child, if yet she surviveth,
        20 That the long-ruling Lord was lavish to herward
-          In the birth of the bairn. Now, Beowulf dear,
+          In the birth of the child. Now, Beowulf dear,
 
 {Hereafter, Beowulf, thou shalt be my son.}
 
           Most excellent hero, I'll love thee in spirit
-          As bairn of my body; bear well henceforward
+          As child of my body; bear well henceforward
           The relationship new. No lack shall befall thee
        25 Of earth-joys any I ever can give thee.
           Full often for lesser service I've given
@@ -2051,12 +2051,12 @@ Finn's castle.}
 Hnæf.}
 
           When shields were shivered she was shorn of her darlings,
-          Of bairns and brothers: they bent to their fate
+          Of childs and brothers: they bent to their fate
        25 With war-spear wounded; woe was that woman.
           Not causeless lamented the daughter of Hoce
           The decree of the Wielder when morning-light came and
           She was able 'neath heaven to behold the destruction
-[38]      Of brothers and bairns, where the brightest of earth-joys
+[38]      Of brothers and childs, where the brightest of earth-joys
 
 {Finn's force is almost exterminated.}
 
@@ -2112,7 +2112,7 @@ Hnæf.}
 
 {Queen Hildeburg has her son burnt along with Hnæf.}
 
-          The bairn of her bosom to bear to the fire,
+          The child of her bosom to bear to the fire,
           That his body be burned and borne to the pyre.
           The woe-stricken woman wept on his shoulder,[2]
        65 In measures lamented; upmounted the hero.[3]
@@ -2170,7 +2170,7 @@ THE FINN EPISODE (_continued_).--THE BANQUET CONTINUES.
           The guest from the palace; on grewsomest vengeance
        15 He brooded more eager than on oversea journeys,
           Whe'r onset-of-anger he were able to 'complish,
-          The bairns of the Jutemen therein to remember.
+          The childs of the Jutemen therein to remember.
           Nowise refused he the duties of liegeman
           When Hun of the Frisians the battle-sword Láfing,
        20 Fairest of falchions, friendly did give him:
@@ -2229,7 +2229,7 @@ nephew.}
           So ought one to do. Be kind to the Geatmen,
        50 In gifts not niggardly; anear and afar now
           Peace thou enjoyest. Report hath informed me
-          Thou'lt have for a bairn the battle-brave hero.
+          Thou'lt have for a child the battle-brave hero.
           Now is Heorot cleansèd, ring-palace gleaming;
 
 {Have as much joy as possible in thy hall, once more purified.}
@@ -2866,7 +2866,7 @@ BEOWULF'S FIGHT WITH GRENDEL'S MOTHER.
 
        70 Foot-going champion. Then she sat on the hall-guest
           And wielded her war-knife wide-bladed, flashing,
-          For her son would take vengeance, her one only bairn.
+          For her son would take vengeance, her one only child.
 
 {His armor saves his life.}
 
@@ -2947,7 +2947,7 @@ BEOWULF IS DOUBLE-CONQUEROR.
           His body far bounded, a blow when he suffered,
           Death having seized him, sword-smiting heavy,
           And he cut off his head then. Early this noticed
-          The clever carles who as comrades of Hrothgar
+          The clever heros who as comrades of Hrothgar
 
 {The waters are gory.}
 
@@ -3070,7 +3070,7 @@ BEOWULF BRINGS HIS TROPHIES.--HROTHGAR'S GRATITUDE.
 {Beowulf relates his last exploit.}
 
           Beowulf spake, offspring of Ecgtheow:
-          "Lo! we blithely have brought thee, bairn of Healfdene,
+          "Lo! we blithely have brought thee, child of Healfdene,
           Prince of the Scyldings, these presents from ocean
           Which thine eye looketh on, for an emblem of glory.
         5 I came off alive from this, narrowly 'scaping:
@@ -3138,7 +3138,7 @@ BEOWULF BRINGS HIS TROPHIES.--HROTHGAR'S GRATITUDE.
           Son of old Healfdene: "He may say unrefuted
        50 Who performs 'mid the folk-men fairness and truth
           (The hoary old ruler remembers the past),
-          That better by birth is this bairn of the nobles!
+          That better by birth is this child of the nobles!
           Thy fame is extended through far-away countries,
           Good friend Beowulf, o'er all of the races,
        55 Thou holdest all firmly, hero-like strength with
@@ -3466,9 +3466,9 @@ THE HOMEWARD JOURNEY.--THE TWO QUEENS.
        15 To drive on the deep, Dane-country left he.
           Along by the mast then a sea-garment fluttered,
           A rope-fastened sail. The sea-boat resounded,
-          The wind o'er the waters the wave-floater nowise
+          The wind o'er the waters the wave-shiper nowise
           Kept from its journey; the sea-goer traveled,
-       20 The foamy-necked floated forth o'er the currents,
+       20 The foamy-necked shiped forth o'er the currents,
           The well-fashioned vessel o'er the ways of the ocean,
 
 {The Geats see their own land again.}
@@ -3629,7 +3629,7 @@ BEOWULF AND HIGELAC.
 
 {Beowulf narrates his adventures.}
 
-          Beowulf answered, bairn of old Ecgtheow:
+          Beowulf answered, child of old Ecgtheow:
           "'Tis hidden by no means, Higelac chieftain,
           From many of men, the meeting so famous,
        40 What mournful moments of me and of Grendel
@@ -3885,7 +3885,7 @@ GIFT-GIVING IS MUTUAL.
           "So the belovèd land-prince lived in decorum;
           I had missed no rewards, no meeds of my prowess,
           But he gave me jewels, regarding my wishes,
-          Healfdene his bairn; I'll bring them to thee, then,
+          Healfdene his child; I'll bring them to thee, then,
 
 {All my gifts I lay at thy feet.}
 
@@ -3915,7 +3915,7 @@ GIFT-GIVING IS MUTUAL.
 {Higelac loves his nephew Beowulf.}
 
           Of trusty companion. Most precious to Higelac,
-       25 The bold one in battle, was the bairn of his sister,
+       25 The bold one in battle, was the child of his sister,
           And each unto other mindful of favors.
 
 {Beowulf gives Hygd the necklace that Wealhtheow had given him.}
@@ -3925,7 +3925,7 @@ GIFT-GIVING IS MUTUAL.
           The troop-leader's daughter, a trio of horses
        30 Slender and saddle-bright; soon did the jewel
           Embellish her bosom, when the beer-feast was over.
-          So Ecgtheow's bairn brave did prove him,
+          So Ecgtheow's child brave did prove him,
 
 {Beowulf is famous.}
 
@@ -4233,7 +4233,7 @@ BRAVE THOUGH AGED.--REMINISCENCES.
           Of their fighting afoot, who forward to meet him
           Carried their war-shields: not many returned from
           The brave-mooded battle-knight back to their homesteads.
-       55 Ecgtheow's bairn o'er the bight-courses swam then,
+       55 Ecgtheow's child o'er the bay-courses swam then,
           Lone-goer lorn to his land-folk returning,
           Where Hygd to him tendered treasure and kingdom,
 
@@ -4261,7 +4261,7 @@ Eadgils, why they come is not known.}
        70 Distributed treasure, distinguished folk-leader.
 [81]      'Twas the end of his earth-days; injury fatal[3]
           By swing of the sword he received as a greeting,
-          Offspring of Higelac; Ongentheow's bairn
+          Offspring of Higelac; Ongentheow's child
           Later departed to visit his homestead,
        75 When Heardred was dead; let Beowulf rule them,
           Govern the Geatmen: good was that folk-king.
@@ -4346,7 +4346,7 @@ BEOWULF SEEKS THE DRAGON.--BEOWULF'S REMINISCENCES.
 
 {He treated me as a son.}
 
-          Knight in the boroughs, than the bairns of his household,
+          Knight in the boroughs, than the childs of his household,
           Herebald and Hæthcyn and Higelac mine.
           To the eldest unjustly by acts of a kinsman
        45 Was murder-bed strewn, since him Hæthcyn from horn-bow
@@ -4597,7 +4597,7 @@ REMINISCENCES (_continued_).--BEOWULF'S LAST BATTLE.
 
           Sorrow he suffered encircled with fire
       130 Who the people erst governed. His companions by no means
-          Were banded about him, bairns of the princes,
+          Were banded about him, childs of the princes,
 
 {His comrades flee!}
 
@@ -4658,7 +4658,7 @@ WIGLAF THE TRUSTY.--BEOWULF IS DESERTED BY FRIENDS AND BY SWORD.
           Ready war-trappings: he the feud did not mention,
           Though he'd fatally smitten the son of his brother.
           Many a half-year held he the treasures,
-          The bill and the burnie, till his bairn became able,
+          The bill and the burnie, till his child became able,
        20 Like his father before him, fame-deeds to 'complish;
           Then he gave him 'mong Geatmen a goodly array of
           Weeds for his warfare; he went from life then

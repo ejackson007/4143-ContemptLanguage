@@ -14,7 +14,7 @@ def main():
 
     #opens the file and cuts it into the needed section, and put into auxillary text file
     with open("/Users/evan/4143-ContemptLanguage/Beowulf/beowulf.txt", 'r+') as f:
-        with open("/Users/evan/4143-ContemptLanguage/Beowulf/auxillary.txt", 'r+') as o:
+        with open("/Users/evan/4143-ContemptLanguage/Beowulf/beowulf2.txt", 'r+') as o:
             for _ in range(933): #starts at "BEOWULF."
                 next(f)
             for line in f:
@@ -25,12 +25,12 @@ def main():
                     o.write(line)
 
     #opens auxillary for editing, and put into beowulf2
-    with open("/Users/evan/4143-ContemptLanguage/Beowulf/auxillary.txt", 'r+') as f:
-        with open("/Users/evan/4143-ContemptLanguage/Beowulf/beowulf2.txt", 'r+') as o:   
+    with open("/Users/evan/4143-ContemptLanguage/Beowulf/beowulf2.txt", 'r+') as f:
+        with open("/Users/evan/4143-ContemptLanguage/Beowulf/auxillary.txt", 'r+') as o:   
             for line in f:
                 for key in translation.keys(): #check each line for translation dictionary
                     if line.find(key) is not -1:
-                        line = line.replace(key, translation[key])
+                        line = line.replace(key, translation[key]) #replace key with value
                         if key is 'bairn':
                             count[0] += 1
                         if key is 'bight':
@@ -41,6 +41,18 @@ def main():
                             count[3] += 1
                 
                 o.write(line)
+    
+    with open("/Users/evan/4143-ContemptLanguage/Beowulf/auxillary.txt", 'r+') as f:
+        with open("/Users/evan/4143-ContemptLanguage/Beowulf/beowulf2.txt", 'r+') as o:
+            o.write("Evan Jackson Project 3 \n\n")
+            o.writelines(
+                "bairn replaced " + str(count[0]) + " times\n"
+                "bight replaced " + str(count[1]) + " times\n"
+                "float replaced " + str(count[2]) + " times\n"
+                "carle replaced " + str(count[3]) + " times\n\n\n"
+            )
+            for lines in f:
+                o.write(lines)
 
     
 if __name__ == '__main__':
