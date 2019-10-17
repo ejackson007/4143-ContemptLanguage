@@ -1,3 +1,11 @@
+/*Evan Jackson
+High or low guessing game
+
+This program was made to practice io as well as basic java functions. The 
+program will generate a number between 1-100, and then ask the user for guesses
+giving clues of higher or lower until the user inputs the correct value. Once
+the value is inputed correctly, a success message is entered along with the
+amount of guesses*/
 import java.util.Random;
 import java.util.Scanner;
 
