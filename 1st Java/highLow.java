@@ -10,20 +10,22 @@ public class highLow{
         n += 1; // n ~ [1-100];
         int guess, count = 1;
         System.out.println("I am thinking of a number between 1-100. Try to guess the number.");
-        
         guess = input.nextInt();
-        
+        //if guess is equal, it is correct. Print outside because you will either
+        //be right eventually or just quit
         while(guess != n){
+            //compares guess to random number. Increments count
             if(guess < n){
                 System.out.println("Higher");
-                count++;
             }
             else{
                 System.out.println("Lower");
-                count++;
             }
+            count++;
+            //Update count
             guess = input.nextInt();
         }
+        //n is now == to guess. Print success with attempts
         System.out.printf("You guessed the number in %d tries\n", count);
     }
 }
