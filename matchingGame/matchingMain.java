@@ -1,3 +1,14 @@
+/*
+Evan Jackson
+November 2, 2019
+Matching Game
+The point of this program is to simulate a memory matching 
+like one you would play with multiple cards. Each button
+has an associated value with it, which will be revealed on click
+after a pair has been chossen. If the pair matches, their values will 
+remain shown as to show that you have correctly paired them up
+*/
+
 package matchingGame;
 
 import javax.swing.*;
