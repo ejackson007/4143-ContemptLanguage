@@ -1,6 +1,7 @@
 package matchingGame;
 
 import javax.swing.*;
+
 import java.awt.event.*;
 import java.util.Arrays;
 import java.util.Collections;
@@ -13,13 +14,8 @@ public class matchingMain {
         JFrame frame = new JFrame("Matching Game");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(550, 550);
-        //create menu bar
-        JMenuBar mb = new JMenuBar();
-        JMenu info = new JMenu("INFO");
-        mb.add(info);
-        JMenuItem about = new JMenuItem("ABOUT");
-        info.add(about);
         // create buttons
+        JButton about = new JButton("INFO");
         JButton button1 = new JButton("Reveal");
         JButton button2 = new JButton("Reveal");
         JButton button3 = new JButton("Reveal");
@@ -36,6 +32,7 @@ public class matchingMain {
         // create array for values to put in
         Integer[] values = {0,1,2,0,1,2};
         List<Integer> intList = Arrays.asList(values);
+        //randomize value positions
         Collections.shuffle(intList);
         intList.toArray(values);
         // create array to store currently overturned array, so that you can check if
@@ -82,10 +79,10 @@ public class matchingMain {
         button6.setAlignmentX(Component.LEFT_ALIGNMENT);
         panel6.add(button6);
         //create Label for output
-        JLabel output = new JLabel("TEST");
+        JLabel output = new JLabel("Guess cards and try to make all the pairs!");
         // add panels into frame
         frame.setLayout(new FlowLayout());
-        frame.add(info);
+        frame.add(about);
         frame.add(panel1);
         frame.add(panel2);
         frame.add(panel3);
@@ -96,21 +93,24 @@ public class matchingMain {
 
         frame.pack();
         frame.setVisible(true);
-
+        //count must be an arr so that it is in scope
         int count[] = new int[1];
         count[0] = 0;
 
         // create button clicks
         button1.addActionListener(new ActionListener() {
             public void actionPerformed(ActionEvent a) {
+                //check if its already pressed
                 if (pressed1[0] == false) {
                     pressed1[0] = true;
                     if(count[0] != 2){
                         pair[count[0]] = 0;
+                        //update how many have been pressed
                         count[0] += 1;
                     }
+                    //once a pair is made
                     if(count[0] == 2){
-                        if(values[pair[0]] == values[pair[1]]){
+                        if(values[pair[0]] == values[pair[1]]){ //if a match
                             switch(pair[0]){
                                 case 0:
                                     button1.setLabel(Integer.toString(values[pair[0]]));
@@ -133,9 +133,10 @@ public class matchingMain {
                             }
                             button1.setLabel(Integer.toString(values[pair[1]]));
                             count[0] = 0;
-                        } else{
+                        } else{ //if not a match
                             output.setText(Integer.toString(values[pair[0]]) + "-" + Integer.toString(values[pair[1]]));
                             count[0] = 0;
+                            //set current and other pair to unclicked since match was not made
                             pressed1[0] = false;
                             switch(pair[0]){
                                 case 0:
@@ -160,7 +161,8 @@ public class matchingMain {
                     }
                     button1.setVisible(true);
                 }
-           }
+            }
+        }
        });
        button2.addActionListener(new ActionListener()
        {
@@ -480,6 +482,14 @@ public class matchingMain {
                     }
                 }
                button6.setVisible(true);
+           }
+       });
+       //output about message
+       about.addActionListener(new ActionListener()
+       {
+            public void actionPerformed(ActionEvent g)
+           {
+               output.setText("Game Created by: Evan Jackson");
            }
        });
      }
